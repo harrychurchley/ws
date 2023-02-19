@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ws/static/css/main.01b63561.css",
-    "main.js": "/ws/static/js/main.007f4729.js",
-    "static/media/IMG_7712.jpg": "/ws/static/media/IMG_7712.d1d6e3ba7c123e837632.jpg",
-    "static/media/IMG_0780.jpeg": "/ws/static/media/IMG_0780.3a9a8066dfcad34da6b1.jpeg",
-    "static/media/IMG_8351.jpeg": "/ws/static/media/IMG_8351.48e88cbb38472ab53bf9.jpeg",
-    "static/media/dig.jpeg": "/ws/static/media/dig.b14b186bb0c7c02e1d1a.jpeg",
-    "index.html": "/ws/index.html",
-    "main.01b63561.css.map": "/ws/static/css/main.01b63561.css.map",
-    "main.007f4729.js.map": "/ws/static/js/main.007f4729.js.map"
+    "main.css": "/harrychurchley.github.io/ws/static/css/main.01b63561.css",
+    "main.js": "/harrychurchley.github.io/ws/static/js/main.be05f51b.js",
+    "static/media/IMG_7712.jpg": "/harrychurchley.github.io/ws/static/media/IMG_7712.d1d6e3ba7c123e837632.jpg",
+    "static/media/IMG_0780.jpeg": "/harrychurchley.github.io/ws/static/media/IMG_0780.3a9a8066dfcad34da6b1.jpeg",
+    "static/media/IMG_8351.jpeg": "/harrychurchley.github.io/ws/static/media/IMG_8351.48e88cbb38472ab53bf9.jpeg",
+    "static/media/dig.jpeg": "/harrychurchley.github.io/ws/static/media/dig.b14b186bb0c7c02e1d1a.jpeg",
+    "index.html": "/harrychurchley.github.io/ws/index.html",
+    "main.01b63561.css.map": "/harrychurchley.github.io/ws/static/css/main.01b63561.css.map",
+    "main.be05f51b.js.map": "/harrychurchley.github.io/ws/static/js/main.be05f51b.js.map"
   },
   "entrypoints": [
     "static/css/main.01b63561.css",
-    "static/js/main.007f4729.js"
+    "static/js/main.be05f51b.js"
   ]
 }
