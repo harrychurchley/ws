@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
-import HomeImg from "../images/IMG_8351.jpeg"
+import HomeImg from "../images/IMG_7712.jpg"
 
 function Home (){
     return(

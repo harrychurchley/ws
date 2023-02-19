@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
-import AboutImg from "../images/IMG_3926.jpeg"
+import AboutImg from "../images/IMG_8351.jpeg"
 
 function About (){
     return(
