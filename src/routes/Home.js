@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import HomeImg from "../images/IMG_7712.jpg"
+import Description from "../components/Description"
 
 function Home (){
     return(
@@ -15,6 +16,7 @@ function Home (){
             url="/"
             btnClass="show"
             />
+            <Description />
         
         </>
 
