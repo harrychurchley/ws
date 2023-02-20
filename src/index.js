@@ -8,7 +8,6 @@ const root = createRoot(rootElement);
 
 root.render(
   <BrowserRouter basename={process.env.PUBLIC_URL}>
-    <Link to="/about">
     <App />
   </BrowserRouter>
 );
