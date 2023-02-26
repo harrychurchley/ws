@@ -1,10 +1,9 @@
 import "./ProjectStyles.css"
-import ProjectData from ".//ProjectData"
+import ProjectData from "./ProjectData"
 import Project1 from "../images/IMG_7712.jpg"
 import Project2 from "../images/IMG_8351.jpeg"
 import Project3 from "../images/IMG_8972.jpeg"
-import Project4 from "../images/IMG_0780.jpeg"
-import Project5 from "../images/IMG_3926.jpeg"
+
 
 function Project(){
     return(

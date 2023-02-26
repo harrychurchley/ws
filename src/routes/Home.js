@@ -3,6 +3,7 @@ import Hero from "../components/Hero"
 import HomeImg from "../images/IMG_7712.jpg"
 import Description from "../components/Description"
 import Project from "../components/Project"
+import Footer from "../components/Footer"
 
 function Home (){
     return(
@@ -19,6 +20,7 @@ function Home (){
             />
             <Description />
             <Project />
+            <Footer />
         
         </>
 

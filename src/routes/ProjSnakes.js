@@ -1,26 +1,28 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-import AboutImg from "../images/IMG_8351.jpeg";
+import Project1Img from "../images/snakes.jpg";
 import Footer from "../components/Footer";
-import AboutMe from "../components/AboutMe";
+import Ipynb from "../components/ipynb";
 
-function About (){
+function ProjSnakes (){
     return(
         <>
             <Navbar />
             <Hero
             cName="hero-mid"
-            heroImg={AboutImg}
-            title="About"
+            heroImg={Project1Img}
+            title="Snakes of Vietnam"
             btnClass="hide"
             />
-            <AboutMe />
+            <Ipynb />
             <Footer />
+            
+        
         </>
  
 
-    );
+    )
 
 }
 
-export default About;
+export default ProjSnakes;

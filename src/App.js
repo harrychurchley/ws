@@ -5,6 +5,7 @@ import Home from "./routes/Home";
 import About from "./routes/About";
 import Projects from "./routes/Projects";
 import Contact from "./routes/Contact";
+import ProjSnakes from "./routes/ProjSnakes";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
         <Route path="/About" element={<About/>}/>
         <Route path="/Projects" element={<Projects/>}/>
         <Route path="/Contact" element={<Contact/>}/>
+        <Route path="/ProjSnakes" element={<ProjSnakes/>}/>
       </Routes>
 
 

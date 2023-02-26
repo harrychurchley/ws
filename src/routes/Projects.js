@@ -1,6 +1,8 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import ProjectsImg from "../images/dig.jpeg"
+import Project from "../components/Project"
+import Footer from "../components/Footer"
 
 function Projects (){
     return(
@@ -12,7 +14,9 @@ function Projects (){
             title="Projects"
             btnClass="hide"
             />
-        
+            <Project />
+            <Project />
+            <Footer />
         </>
         
         

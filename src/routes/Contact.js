@@ -1,17 +1,21 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import ContactImg from "../images/IMG_0780.jpeg"
+import Footer from "../components/Footer"
+import ContactForm from "../components/ContactForm"
 
 function Contact (){
     return(
         <>
             <Navbar />
             <Hero
-            cName="hero-mid"
-            heroImg={ContactImg}
-            title="Contact"
-            btnClass="hide"
+                cName="hero-mid"
+                heroImg={ContactImg}
+                title="Contact"
+                btnClass="hide"
             />
+            <ContactForm />
+            <Footer />
         
         </>
 
